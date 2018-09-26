@@ -5,3 +5,5 @@ Definir el nombre del proyecto:
 Definir el objetivo del proyecto
 
 Un nuevo cambio necesario
+
+Otro cambio para probar git fetch, que descarga las actualizaciones del repositorio remoto, pero no los fusiona con la rama actual en local
